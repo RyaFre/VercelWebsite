@@ -5,7 +5,7 @@ const packages = [
   {
     title: "Website Development",
     tagline: "Create a tailored, fully custom website to fit your needs.",
-    price: "R15,000 - R30,000"
+    price: "Undisclosed"
   },
   {
     title: "Small Automation Scripts/File Organization",
