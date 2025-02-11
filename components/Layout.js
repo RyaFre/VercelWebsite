@@ -1,6 +1,5 @@
 // components/Layout.js
 import Navbar from './Navbar';
-import '../styles/globals.css';
 
 const Layout = ({ children }) => {
   return (
