@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <div className={styles.logo}>MySite</div>
+      <div className={styles.logo}>Ryan Harding</div>
       <div className={styles.menuContainer}>
         <button 
           onClick={toggleMenu} 
