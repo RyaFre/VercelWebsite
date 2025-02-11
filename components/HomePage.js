@@ -8,7 +8,7 @@ const HomePage = () => {
     <div className={styles.home}>
       <section className={styles.hero} id="home">
         <img 
-          src="/images/hero-key.jpg" 
+          src="images\hero-key.jpg" 
           alt="Key visual representing our services" 
           className={styles.heroImage} 
           loading="lazy" // Lazy loading for performance
