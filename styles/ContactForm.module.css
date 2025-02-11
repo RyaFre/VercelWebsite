@@ -1,0 +1,43 @@
+/* styles/ContactForm.module.css */
+.contactForm {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .contactForm h2 {
+    margin-bottom: 1rem;
+    color: #1D3557;
+  }
+  
+  .contactForm label {
+    display: block;
+    margin: 0.5rem 0 0.2rem;
+  }
+  
+  .contactForm input,
+  .contactForm textarea {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .contactForm button {
+    background-color: #1D3557;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .contactForm button:hover {
+    background-color: #163a55;
+  }
+  

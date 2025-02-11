@@ -1,0 +1,31 @@
+/* styles/HomePage.module.css */
+.home {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .hero {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .heroImage {
+    max-width: 50%;
+    border-radius: 8px;
+  }
+  
+  .heroText {
+    padding: 1rem;
+  }
+  
+  @media (max-width: 768px) {
+    .hero {
+      flex-direction: column;
+    }
+    .heroImage {
+      max-width: 100%;
+    }
+  }
+  
