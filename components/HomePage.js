@@ -9,7 +9,6 @@ const HomePage = () => {
       <section className={styles.hero} id="home">
         <img 
           src="/images/hero-key.jpg" 
-          alt="Why is my logo not displaying?" 
           className={styles.heroImage} 
           loading="lazy" // Lazy loading for performance
         />
